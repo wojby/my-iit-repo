@@ -7,4 +7,4 @@ Hello! I'm Wojtek. This is my first project on GitHub.
 
 This text is edited in Codespaces.
 
-![Alt text](codespace_view_preclass.jpg)
+![Alt text](codespace_view_preclass.png)
