@@ -6,3 +6,5 @@ Hello! I'm Wojtek. This is my first project on GitHub.
 - Next, I’ll explore more GitHub features 
 
 This text is edited in Codespaces.
+
+![Alt text](codespace_view_preclass.jpg)
